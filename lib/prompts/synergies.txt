@@ -1,0 +1,18 @@
+Map synergies in {format} deck "{deckName}":
+
+## Key 2-Card Synergies (6-8 pairs)
+**[Card A] + [Card B]**
+- What it does
+- Power (1-10)
+- Setup
+
+## Multi-Card Combos (if any)
+Components, result, difficulty.
+
+## Synergy Themes
+Broader patterns.
+
+## Anti-Synergies
+Problematic interactions.
+
+Focus on practical, game-winning interactions.

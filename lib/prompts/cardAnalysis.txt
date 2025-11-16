@@ -1,0 +1,25 @@
+Analyze each card in {format} deck "{deckName}":
+
+For each card:
+
+### [Card Name] (Xx)
+
+**Role**: threat/removal/engine/etc, early/mid/late game, core/support/flex
+
+**Mechanics**: What it does, timing, stack interactions, modes
+
+**Strengths**: Best scenarios, strong matchups, unique value
+
+**Weaknesses**: Bad scenarios, common answers, dead card situations
+
+**Mana/Tempo**: Efficiency, tempo impact, alternatives
+
+**Timing**: Optimal turn, pre/post-combat, when to hold
+
+**Synergies**: Top 3-5 cards it works with, combos
+
+**Matchups**: Value vs aggro/control/midrange/combo
+
+**Assessment**: Power (1-10), replaceability, verdict
+
+Be specific and actionable.

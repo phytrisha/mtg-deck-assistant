@@ -1,0 +1,18 @@
+Mulligan guide for {format} deck "{deckName}":
+
+## Perfect 7
+Ideal hands with examples.
+
+## Strong Keeps (4-6 patterns)
+Pattern, why good, example.
+
+## Acceptable Keeps
+Functional but not ideal.
+
+## Always Mulligan
+Patterns to ship with reasons.
+
+## Play vs Draw
+How decisions change.
+
+Be specific with card types and examples.

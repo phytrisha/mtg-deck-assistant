@@ -1,0 +1,20 @@
+Sideboarding guide for {format} deck "{deckName}":
+
+## Sideboard Analysis
+For each sideboard card:
+**[Card]** (X copies)
+- Purpose
+- Best against
+- Replaces what
+- Impact on gameplan
+
+## Framework
+For each archetype (Aggro, Control, Midrange, Combo):
+- Cards IN (with reasons)
+- Cards OUT (with reasons)
+- Gameplan shift
+
+## Common Mistakes
+What not to do.
+
+Be specific about swaps.

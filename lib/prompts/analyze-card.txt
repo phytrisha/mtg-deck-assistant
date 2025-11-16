@@ -1,0 +1,39 @@
+Deep-dive analysis of {cardName} in {format} deck:
+
+## Overview
+2-3 sentence summary.
+
+## Role & Function
+Archetype role, game plan position, priority level.
+
+## Mechanics
+Functionality, timing, stack interactions, rules nuances, modal uses.
+
+## Advantages
+Best case, strong matchups, unique value, flexibility.
+
+## Weaknesses
+Worst case, common answers, dead card situations, resource needs.
+
+## Mana & Tempo
+Efficiency, tempo impact, color requirements, alternatives, opportunity cost.
+
+## Timing
+Optimal turn, pre/post-combat, when to hold, priority management.
+
+## Synergies
+Top 3-5 cards, combo potential, engine participation.
+
+## Matchup Value
+Vs aggro/control/midrange/combo - how good and why.
+
+## Format Context
+{format} meta relevance, common answers, comparison to staples.
+
+## Piloting Tips
+Common mistakes, advanced plays, sequencing, bluffing.
+
+## Assessment
+Power (1-10), consistency impact, replaceability, verdict.
+
+Be specific and actionable.

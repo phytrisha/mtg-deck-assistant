@@ -1,0 +1,113 @@
+{
+  "deckName": "Mono-Red Aggro",
+  "format": "Standard",
+  "lastUpdated": "2025-11-11",
+  "mainDeck": [
+    {
+      "quantity": 4,
+      "name": "Monastery Swiftspear",
+      "type": "Creature"
+    },
+    {
+      "quantity": 4,
+      "name": "Hired Claw",
+      "type": "Creature"
+    },
+    {
+      "quantity": 4,
+      "name": "Emberheart Challenger",
+      "type": "Creature"
+    },
+    {
+      "quantity": 4,
+      "name": "Screaming Nemesis",
+      "type": "Creature"
+    },
+    {
+      "quantity": 4,
+      "name": "Fugitive Codebreaker",
+      "type": "Creature"
+    },
+    {
+      "quantity": 2,
+      "name": "Sunspine Lynx",
+      "type": "Creature"
+    },
+    {
+      "quantity": 4,
+      "name": "Burst Lightning",
+      "type": "Instant"
+    },
+    {
+      "quantity": 3,
+      "name": "Lightning Strike",
+      "type": "Instant"
+    },
+    {
+      "quantity": 2,
+      "name": "Witchstalker Frenzy",
+      "type": "Sorcery"
+    },
+    {
+      "quantity": 2,
+      "name": "Obliterating Bolt",
+      "type": "Sorcery"
+    },
+    {
+      "quantity": 17,
+      "name": "Mountain",
+      "type": "Basic Land"
+    },
+    {
+      "quantity": 4,
+      "name": "Rockface Village",
+      "type": "Land"
+    },
+    {
+      "quantity": 2,
+      "name": "Soulstone Sanctuary",
+      "type": "Land"
+    }
+  ],
+  "sideboard": [
+    {
+      "quantity": 3,
+      "name": "Ghost Vacuum",
+      "type": "Artifact"
+    },
+    {
+      "quantity": 3,
+      "name": "Urabrask's Forge",
+      "type": "Artifact"
+    },
+    {
+      "quantity": 2,
+      "name": "Lithomantic Barrage",
+      "type": "Sorcery"
+    },
+    {
+      "quantity": 2,
+      "name": "Sunspine Lynx",
+      "type": "Creature"
+    },
+    {
+      "quantity": 2,
+      "name": "Abrade",
+      "type": "Instant"
+    },
+    {
+      "quantity": 2,
+      "name": "Pyroclasm",
+      "type": "Sorcery"
+    },
+    {
+      "quantity": 1,
+      "name": "Obliterating Bolt",
+      "type": "Sorcery"
+    }
+  ],
+  "totals": {
+    "mainDeckCards": 60,
+    "sideboardCards": 15
+  }
+}

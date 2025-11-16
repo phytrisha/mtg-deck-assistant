@@ -1,0 +1,18 @@
+Turn-by-turn tactics for {format} deck "{deckName}":
+
+## Early (T1-3)
+On play vs draw priorities.
+
+## Mid (T4-6)
+Board development, resource management, when to pressure.
+
+## Late (T7+)
+Closing strategy, recovering from setbacks.
+
+## Key Scenarios (2-4)
+**Scenario**: [board state]
+**Optimal play**: sequence
+**Why**: explanation
+**Common mistake**: what's wrong
+
+Be specific with concrete examples.

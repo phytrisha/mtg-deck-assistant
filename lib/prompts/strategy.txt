@@ -1,0 +1,9 @@
+Analyze {format} deck '{deckName}' and provide a concise strategy guide:
+
+1. Overall gameplan and win conditions
+2. Key card synergies and combos
+3. Mulligan decisions
+4. Typical gameplay patterns for turns 1-4
+5. Sideboarding guide (what to bring in/out vs common archetypes)
+
+Be detailed but concise. Focus on actionable advice.

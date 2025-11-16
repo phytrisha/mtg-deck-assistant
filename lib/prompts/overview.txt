@@ -1,0 +1,21 @@
+Analyze this {format} deck "{deckName}". Brief overview:
+
+## Archetype & Stats
+Archetype, power level (1-10), complexity.
+
+## Strategy
+2-3 sentences: how it wins.
+
+## Strengths & Weaknesses
+3-4 bullets each.
+
+## Top 5 Cards
+Why they're critical.
+
+## Quick Mulligan
+Basic advice in 2-3 sentences.
+
+## Meta Position
+Current {format} fit in 2-3 sentences.
+
+Be concise and actionable.

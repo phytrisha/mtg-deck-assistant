@@ -1,0 +1,45 @@
+{
+  "deckName": "Azorius Control",
+  "format": "Standard",
+  "lastUpdated": "2025-11-16",
+  "mainDeck": [
+    {"quantity": 1, "name": "Adagia, Windswept Bastion", "type": "Land"},
+    {"quantity": 2, "name": "Beza, the Bounding Spring", "type": "Creature"},
+    {"quantity": 3, "name": "Consult the Star Charts", "type": "Instant"},
+    {"quantity": 2, "name": "Day of Judgment", "type": "Sorcery"},
+    {"quantity": 2, "name": "Demolition Field", "type": "Land"},
+    {"quantity": 2, "name": "Elspeth, Storm Slayer", "type": "Planeswalker"},
+    {"quantity": 4, "name": "Floodfarm Verge", "type": "Land"},
+    {"quantity": 3, "name": "Fountainport", "type": "Land"},
+    {"quantity": 4, "name": "Get Lost", "type": "Instant"},
+    {"quantity": 3, "name": "Island", "type": "Basic Land"},
+    {"quantity": 1, "name": "Jidoor, Aristocratic Capital", "type": "Land"},
+    {"quantity": 3, "name": "Marang River Regent", "type": "Creature"},
+    {"quantity": 3, "name": "Meticulous Archive", "type": "Artifact"},
+    {"quantity": 2, "name": "Mistrise Village", "type": "Land"},
+    {"quantity": 4, "name": "No More Lies", "type": "Instant"},
+    {"quantity": 2, "name": "Overlord of the Mistmoors", "type": "Creature"},
+    {"quantity": 4, "name": "Plains", "type": "Basic Land"},
+    {"quantity": 2, "name": "Quantum Riddler", "type": "Creature"},
+    {"quantity": 2, "name": "Rest in Peace", "type": "Enchantment"},
+    {"quantity": 2, "name": "Restless Anchorage", "type": "Land"},
+    {"quantity": 2, "name": "Ride's End", "type": "Instant"},
+    {"quantity": 2, "name": "Split Up", "type": "Instant"},
+    {"quantity": 2, "name": "Stock Up", "type": "Instant"},
+    {"quantity": 3, "name": "Three Steps Ahead", "type": "Instant"}
+  ],
+  "sideboard": [
+    {"quantity": 2, "name": "Authority of the Consuls", "type": "Enchantment"},
+    {"quantity": 2, "name": "Disenchant", "type": "Instant"},
+    {"quantity": 1, "name": "Final Showdown", "type": "Sorcery"},
+    {"quantity": 2, "name": "High Noon", "type": "Enchantment"},
+    {"quantity": 2, "name": "Negate", "type": "Instant"},
+    {"quantity": 2, "name": "Riverchurn Monument", "type": "Artifact"},
+    {"quantity": 2, "name": "Spider-Sense", "type": "Instant"},
+    {"quantity": 2, "name": "Tishana's Tidebinder", "type": "Creature"}
+  ],
+  "totals": {
+    "mainDeckCards": 60,
+    "sideboardCards": 15
+  }
+}

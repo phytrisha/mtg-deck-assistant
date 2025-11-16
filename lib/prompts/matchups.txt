@@ -1,0 +1,12 @@
+Matchup guide for {format} deck "{deckName}":
+
+For each archetype (Aggro, Control, Midrange, Combo):
+
+## vs [Archetype]
+- Strategy (race/stabilize/pressure)
+- Key cards
+- Win condition
+- Sideboard plan (general)
+- Critical turns/plays
+
+Be practical and specific.
